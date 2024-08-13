@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a more interisting world
 - 📫 How to reach me... Not Yet 🥸
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love technology but there's always room for learning about other people and the universe :D 
+- ⚡ Fun fact: I love technology but there's always room for learning about how other people see the world and the universe :D 
 
 <!---
 NotLukas27/NotLukas27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
