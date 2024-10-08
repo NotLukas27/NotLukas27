@@ -13,6 +13,7 @@
 <br>
  
 <div> <!-- Links e imagens das redes sociais ou diversos-->
+    <h2> Linguagens de marcação e programação que gosto </h2>
   <a href="https://www.instagram.com/lucas_venancioth/profilecard/?igsh=ZnpkNHV2NzIncG13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-venancio-thiele-598b9b287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">    </a>
 </div>
