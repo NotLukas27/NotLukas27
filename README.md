@@ -1,13 +1,20 @@
-- 👋 What's Up?, I’m __*Lucas*__
-- 👀 I’m interested in Technology and Outer Space...
-- 🌱 I’m currently learning Information Technology and so on...
-- 💞️ I’m looking to collaborate on a more interisting world
-- 📫 How to reach me... Not Yet 🥸
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love technology but there's always room for learning about how other people see the world and the universe :D
-- 😁 I'm also a big fan of **Open Source Philosophy** 😁
+## BEM-VINDO AO MEU PERFIL 😁
 
-<!---
-NotLukas27/NotLukas27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div> <!-- Link do perfil alvo para relacionar os dados -->
+   <a href="https://github.com/NotLukas27">
+   <img height="180em" src=""/>
+   <img height="180em" src=""/>
+</div>
+    
+<div style="display: inline_block"><br> <!-- Devicons das linguagens usadas no perfil -->
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+<div> <!-- Links e imagens das redes sociais ou diversos-->
+  <a href="https://www.instagram.com/lucas_venancioth/profilecard/?igsh=ZnpkNHV2NzIncG13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/lucas-venancio-thiele-598b9b287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
